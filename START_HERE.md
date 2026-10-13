@@ -40,3 +40,5 @@
 - [เล่ม 1 ตอนที่ 6 — คนที่มองไม่เห็นในรายงาน](story/season_01/volume_01/chapters/chapter_006.md) (DRAFT รออนุมัติ); ตอน 1–5 APPROVED
 
 - [เล่ม 1 ตอนที่ 7 — แสงไฟที่ไม่ควรดับ](story/season_01/volume_01/chapters/chapter_007.md) — DRAFT; ตอน 1–6 APPROVED
+
+- [เล่ม 1 ตอนที่ 8 — ข้อความใต้ประตู](story/season_01/volume_01/chapters/chapter_008.md) — DRAFT รออนุมัติ; ตอน 7 ยังเป็น DRAFT
