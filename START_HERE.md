@@ -32,3 +32,5 @@
 - [เล่ม 1 ตอนที่ 2 — เสียงจากโกดังหมายเลขเจ็ด](story/season_01/volume_01/chapters/chapter_002.md) — ร่างใหม่ล่าสุด รออนุมัติ
 
 - [เล่ม 1 ตอนที่ 3 — ทางแยกที่ไม่ควรมีใครอยู่](story/season_01/volume_01/chapters/chapter_003.md) (DRAFT รอผู้เขียนอนุมัติ)
+
+- [เล่ม 1 ตอนที่ 4 — คนที่ไม่มีใครเห็นกลับมา](story/season_01/volume_01/chapters/chapter_004.md) (DRAFT รออนุมัติ)
