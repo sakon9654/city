@@ -1,4 +1,4 @@
 # ดัชนีตัวละคร
 | ID | ชื่อ | ฝ่าย | บทบาท | พลัง | ไฟล์หลัก | สถานะ |
 |---|---|---|---|---|---|---|
-| MC-001 | ทาคามิเนะ เรย์จิ (Takamine Reiji) | อิสระ | ตัวเอก; ผู้พิชิตอสูร (Beastbreaker) | POWER-MC-001 ดวงใจราชสีห์ | `characters/MC-001_DRAFT.md` | ชื่อ/ฉายา/พลัง CONFIRMED; รายละเอียดอื่นบางส่วน DRAFT |
+| MC-001 | ทาคามิเนะ เรย์จิ (Takamine Reiji) | อิสระ | พระเอก / ผู้พิชิตอสูร (Beastbreaker) | ดวงใจราชสีห์ (Lionheart) | `canon/protagonist_identity.md` | CONFIRMED |
