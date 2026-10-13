@@ -30,3 +30,5 @@
 - เด็กเป้าหมายอายุ 17 ปี นักเรียนมัธยมปลายและสมาชิกชมรมสิ่งลี้ลับ; แฟ้มหลักใน [canon/season_01_foundation.md](canon/season_01_foundation.md)
 
 - [เล่ม 1 ตอนที่ 2 — เสียงจากโกดังหมายเลขเจ็ด](story/season_01/volume_01/chapters/chapter_002.md) — ร่างใหม่ล่าสุด รออนุมัติ
+
+- [เล่ม 1 ตอนที่ 3 — ทางแยกที่ไม่ควรมีใครอยู่](story/season_01/volume_01/chapters/chapter_003.md) (DRAFT รอผู้เขียนอนุมัติ)
