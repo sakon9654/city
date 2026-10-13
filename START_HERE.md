@@ -34,3 +34,5 @@
 - [เล่ม 1 ตอนที่ 3 — ทางแยกที่ไม่ควรมีใครอยู่](story/season_01/volume_01/chapters/chapter_003.md) (DRAFT รอผู้เขียนอนุมัติ)
 
 - [เล่ม 1 ตอนที่ 4 — คนที่ไม่มีใครเห็นกลับมา](story/season_01/volume_01/chapters/chapter_004.md) (DRAFT รออนุมัติ)
+
+- [เล่ม 1 ตอนที่ 5 — รอยเท้าในคืนฝนตก](story/season_01/volume_01/chapters/chapter_005.md) (DRAFT รออนุมัติ); ตอน 1–4 APPROVED
