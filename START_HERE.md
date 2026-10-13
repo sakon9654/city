@@ -44,3 +44,5 @@
 - [เล่ม 1 ตอนที่ 8 — ข้อความใต้ประตู](story/season_01/volume_01/chapters/chapter_008.md) — DRAFT รออนุมัติ; ตอน 7 ยังเป็น DRAFT
 
 - [ตอนที่ 9 — ก่อนประตูจะเปิด](story/season_01/volume_01/chapters/chapter_009.md) — DRAFT (ตอน 7 Approved, ตอน 8 Draft)
+
+- [เล่ม 1 ตอนที่ 10 — คนที่ตัดสินใจกลับไป](story/season_01/volume_01/chapters/chapter_010.md) — DRAFT; ตอน 1–8 APPROVED และตอน 9 DRAFT
