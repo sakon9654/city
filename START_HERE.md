@@ -38,3 +38,5 @@
 - [เล่ม 1 ตอนที่ 5 — รอยเท้าในคืนฝนตก](story/season_01/volume_01/chapters/chapter_005.md) (DRAFT รออนุมัติ); ตอน 1–4 APPROVED
 
 - [เล่ม 1 ตอนที่ 6 — คนที่มองไม่เห็นในรายงาน](story/season_01/volume_01/chapters/chapter_006.md) (DRAFT รออนุมัติ); ตอน 1–5 APPROVED
+
+- [เล่ม 1 ตอนที่ 7 — แสงไฟที่ไม่ควรดับ](story/season_01/volume_01/chapters/chapter_007.md) — DRAFT; ตอน 1–6 APPROVED
