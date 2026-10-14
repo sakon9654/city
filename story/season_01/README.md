@@ -43,3 +43,5 @@
 - สถานะ: ตอน 1–8 APPROVED, ตอน 9–10 DRAFT
 
 - [ตอนที่ 11 — ชายใต้ผ้าคลุมสีดำ](volume_01/chapters/chapter_011.md) — DRAFT รออนุมัติ; ตอน 1–10 APPROVED
+
+- [เล่ม 1 ตอนที่ 12 — ระยะห่างของเขี้ยวกับราชสีห์](volume_01/chapters/chapter_012.md) — DRAFT; ตอน 1–11 APPROVED
