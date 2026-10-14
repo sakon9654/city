@@ -13,7 +13,7 @@ updated: 2026-10-14
 - ดู [[../../CURRENT_STATE|CURRENT_STATE]] โดยใช้หัวข้อ "สถานะปัจจุบันล่าสุด" เท่านั้น เพราะบันทึกเดิมมีสถานะย้อนหลัง
 
 ## แผนที่ข้อมูล
-- [[../../../../canon/STATUS|สถานะ Canon โลก]] · [[../../../../canon/powers|กฎพลัง]] · [[../../../../canon/organizations|องค์กร]]
+- [[../../../canon/STATUS|สถานะ Canon โลก]] · [[../../../canon/powers|กฎพลัง]] · [[../../../canon/organizations|องค์กร]]
 - [[OUTLINE|โครงเล่ม]] · [[REVEALS|จังหวะเฉลย]]
 - [[KNOWLEDGE_TIMELINE|ใครรู้อะไรเมื่อไหร่]]
 - [[EVENT_LEDGER|ทะเบียนเหตุการณ์ตามลำดับ]] · [[RELATIONSHIPS|ทะเบียนความสัมพันธ์]]
