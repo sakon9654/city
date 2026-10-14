@@ -39,3 +39,10 @@
 
 - [ตอนที่ 14 — เงาที่ไม่มีชื่อ](story/season_01/volume_01/chapters/chapter_014.md) — DRAFT; ตอน 1–13 APPROVED
 - [ชิราฮะ คานาเมะ: พลัง/นิสัย](story/season_01/volume_01/characters/shiraha_kaname.md)
+
+## Obsidian / Long-form writing — ศูนย์นำทางปัจจุบัน
+- [OBSIDIAN_HOME](story/season_01/volume_01/OBSIDIAN_HOME.md) — เริ่มตรวจงานเล่ม 1 ที่นี่
+- [EVENT_LEDGER](story/season_01/volume_01/EVENT_LEDGER.md) — รหัสเหตุการณ์และลำดับ
+- [RELATIONSHIPS](story/season_01/volume_01/RELATIONSHIPS.md) — ความสัมพันธ์และความรู้ของแต่ละฝ่าย
+- [DATA_MODEL](story/season_01/volume_01/DATA_MODEL.md) — รูปแบบข้อมูลและ checklist งานระยะยาว
+- สถานะล่าสุด: ตอน 1–13 APPROVED; ตอน 14 DRAFT (ห้ามนับเหตุการณ์ Draft เป็น Canon)
