@@ -32,3 +32,5 @@
 - [อ่านตอน 9](story/season_01/volume_01/chapters/chapter_009.md) | [อ่านตอน 10](story/season_01/volume_01/chapters/chapter_010.md)
 
 - [ตอนที่ 11 — ชายใต้ผ้าคลุมสีดำ](story/season_01/volume_01/chapters/chapter_011.md) — DRAFT; ตอน 1–10 APPROVED
+
+- [เล่ม 1 ตอนที่ 12 — ระยะห่างของเขี้ยวกับราชสีห์](story/season_01/volume_01/chapters/chapter_012.md) — DRAFT; ตอน 1–11 APPROVED
