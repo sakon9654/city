@@ -36,3 +36,6 @@
 - [เล่ม 1 ตอนที่ 12 — ระยะห่างของเขี้ยวกับราชสีห์](story/season_01/volume_01/chapters/chapter_012.md) — DRAFT; ตอน 1–11 APPROVED
 
 - [ตอนที่ 13 — คำสั่งจากอีกฟากของเมือง](story/season_01/volume_01/chapters/chapter_013.md) — DRAFT รออนุมัติ; ตอน 1–12 APPROVED
+
+- [ตอนที่ 14 — เงาที่ไม่มีชื่อ](story/season_01/volume_01/chapters/chapter_014.md) — DRAFT; ตอน 1–13 APPROVED
+- [ชิราฮะ คานาเมะ: พลัง/นิสัย](story/season_01/volume_01/characters/shiraha_kaname.md)
