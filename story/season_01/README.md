@@ -54,3 +54,5 @@
 ## ศูนย์ Obsidian ล่าสุด
 - [หน้าเริ่มต้น Vault](volume_01/OBSIDIAN_HOME.md) · [ทะเบียนเหตุการณ์](volume_01/EVENT_LEDGER.md) · [ความสัมพันธ์](volume_01/RELATIONSHIPS.md) · [มาตรฐานข้อมูล](volume_01/DATA_MODEL.md)
 - ยืนยันตอน 1–13 APPROVED, ตอน 14 DRAFT; ข้อความสถานะก่อนหน้านี้ในสารบัญเป็นประวัติ ไม่ใช่สถานะล่าสุด
+
+- [ตอน 15 — ราคาของการแหกกฎ](volume_01/chapters/chapter_015.md) — DRAFT; ตอน 1–14 APPROVED; แผนเล่มเสนอ 17 ตอน
