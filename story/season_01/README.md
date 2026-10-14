@@ -47,3 +47,6 @@
 - [เล่ม 1 ตอนที่ 12 — ระยะห่างของเขี้ยวกับราชสีห์](volume_01/chapters/chapter_012.md) — DRAFT; ตอน 1–11 APPROVED
 
 - [ตอนที่ 13 — คำสั่งจากอีกฟากของเมือง](volume_01/chapters/chapter_013.md) — DRAFT; เรเวนสั่งเก็บหัวหน้าแก๊งและเปิดตัวผู้มีพลังคนใหม่
+
+- [ตอนที่ 14 — เงาที่ไม่มีชื่อ](volume_01/chapters/chapter_014.md) — DRAFT หลังตอน 13 APPROVED
+- [แฟ้มตัวละคร ชิราฮะ คานาเมะ](volume_01/characters/shiraha_kaname.md) — พลังย่างเงาและบุคลิกที่ยืนยันแล้ว
