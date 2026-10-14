@@ -4,12 +4,12 @@ type: chapter
 season: 1
 volume: 1
 chapter: 15
-status: draft
+status: approved
 timeline_after: E011
 characters: [shiraha_kaname, takamine_reiji, misaki_aoi]
 ---
 # เล่ม 1 ตอนที่ 15 — ราคาของการแหกกฎ
-> สถานะ: DRAFT — รอผู้เขียนอนุมัติ
+> สถานะ: APPROVED — ผู้เขียนอนุมัติ 2026-10-15
 > ต่อจากตอนที่ 14 APPROVED
 > การรับรู้: ผู้อ่านรู้คำสั่งเรเวนแล้ว แต่อาโออิ/เซ็นทรัลและเรย์จิยังไม่รู้; ไม่มีใครเชื่อมชายคลุมหน้ากับเรย์จิ
 
