@@ -25,26 +25,8 @@
 ห้ามนำจักรวาลอื่น/นิยายเก่ามาอ้างอิงโดยพลการ และห้ามถือว่าบทสนทนาตัวอย่างเกิดขึ้นจริง
 เมื่อเขียนเพิ่มให้ตรวจความต่อเนื่องตาม [workflow/CONTINUITY.md](workflow/CONTINUITY.md)
 
-## ร่างตอนล่าสุด
-- [เล่ม 1 ตอนที่ 1 — บ้านที่ยังรอเจ้าของ](story/season_01/volume_01/chapters/chapter_001.md) (DRAFT / ยังไม่อนุมัติ)
-- เด็กเป้าหมายอายุ 17 ปี นักเรียนมัธยมปลายและสมาชิกชมรมสิ่งลี้ลับ; แฟ้มหลักใน [canon/season_01_foundation.md](canon/season_01_foundation.md)
-
-- [เล่ม 1 ตอนที่ 2 — เสียงจากโกดังหมายเลขเจ็ด](story/season_01/volume_01/chapters/chapter_002.md) — ร่างใหม่ล่าสุด รออนุมัติ
-
-- [เล่ม 1 ตอนที่ 3 — ทางแยกที่ไม่ควรมีใครอยู่](story/season_01/volume_01/chapters/chapter_003.md) (DRAFT รอผู้เขียนอนุมัติ)
-
-- [เล่ม 1 ตอนที่ 4 — คนที่ไม่มีใครเห็นกลับมา](story/season_01/volume_01/chapters/chapter_004.md) (DRAFT รออนุมัติ)
-
-- [เล่ม 1 ตอนที่ 5 — รอยเท้าในคืนฝนตก](story/season_01/volume_01/chapters/chapter_005.md) (DRAFT รออนุมัติ); ตอน 1–4 APPROVED
-
-- [เล่ม 1 ตอนที่ 6 — คนที่มองไม่เห็นในรายงาน](story/season_01/volume_01/chapters/chapter_006.md) (DRAFT รออนุมัติ); ตอน 1–5 APPROVED
-
-- [เล่ม 1 ตอนที่ 7 — แสงไฟที่ไม่ควรดับ](story/season_01/volume_01/chapters/chapter_007.md) — DRAFT; ตอน 1–6 APPROVED
-
-- [เล่ม 1 ตอนที่ 8 — ข้อความใต้ประตู](story/season_01/volume_01/chapters/chapter_008.md) — DRAFT รออนุมัติ; ตอน 7 ยังเป็น DRAFT
-
-- [ตอนที่ 9 — ก่อนประตูจะเปิด](story/season_01/volume_01/chapters/chapter_009.md) — DRAFT (ตอน 7 Approved, ตอน 8 Draft)
-
-- [เล่ม 1 ตอนที่ 10 — คนที่ตัดสินใจกลับไป](story/season_01/volume_01/chapters/chapter_010.md) — DRAFT; ตอน 1–8 APPROVED และตอน 9 DRAFT
-
-- [กฎการรับรู้ของตัวละครและ Timeline](story/season_01/volume_01/KNOWLEDGE_TIMELINE.md) — ยืนยันระดับความลับของเรย์จิและประตูเปิดเผยข้อมูลแต่ละตอน
+## สถานะตอนปัจจุบัน (2026-10-14)
+- **APPROVED:** เล่ม 1 ตอนที่ 1–9
+- **DRAFT:** เล่ม 1 ตอนที่ 10 (รอตรวจความต่อเนื่องและอนุมัติ)
+- ให้ยึด [ทะเบียนสถานะปัจจุบัน](story/CURRENT_STATE.md) และ [Knowledge Timeline](story/season_01/volume_01/KNOWLEDGE_TIMELINE.md) เป็นแหล่งอ้างอิงก่อนเขียนต่อ
+- [อ่านตอน 9](story/season_01/volume_01/chapters/chapter_009.md) | [อ่านตอน 10](story/season_01/volume_01/chapters/chapter_010.md)
