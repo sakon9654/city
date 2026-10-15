@@ -48,3 +48,6 @@
 - สถานะล่าสุด: ตอน 1–13 APPROVED; ตอน 14 DRAFT (ห้ามนับเหตุการณ์ Draft เป็น Canon)
 
 - [ตอน 15 — ราคาของการแหกกฎ](story/season_01/volume_01/chapters/chapter_015.md) — DRAFT; เล่ม 1 เสนอ 17 ตอน
+
+## สถานะนิยายล่าสุด
+- [ตอนที่ 17 — สิ่งที่ถูกทิ้งไว้](story/season_01/volume_01/chapters/chapter_017.md) — DRAFT; ตอนที่ 1–16 APPROVED
