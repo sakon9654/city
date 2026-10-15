@@ -56,3 +56,8 @@
 - ยืนยันตอน 1–13 APPROVED, ตอน 14 DRAFT; ข้อความสถานะก่อนหน้านี้ในสารบัญเป็นประวัติ ไม่ใช่สถานะล่าสุด
 
 - [ตอน 15 — ราคาของการแหกกฎ](volume_01/chapters/chapter_015.md) — DRAFT; ตอน 1–14 APPROVED; แผนเล่มเสนอ 17 ตอน
+
+## เล่ม 1 จบสมบูรณ์ / แผนเล่ม 2
+- [สรุปเล่ม 1](volume_01/VOLUME_01_RECAP.md) · [แฟ้มส่งต่อ](volume_01/VOLUME_01_HANDOFF.md)
+- [Obsidian เล่ม 2](volume_02/OBSIDIAN_HOME.md) · [โครง 16 ตอน PROPOSED](volume_02/OUTLINE.md)
+- เล่ม 1 ตอน 1–17 APPROVED; เล่ม 2 ยังอยู่ในขั้นวางแผน
