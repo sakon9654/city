@@ -4,12 +4,12 @@ type: chapter
 season: 1
 volume: 1
 chapter: 16
-status: draft
+status: approved
 timeline_after: E012
 characters: [misaki_aoi, takamine_reiji, shiraha_kaname]
 ---
 # เล่ม 1 ตอนที่ 16 — คำให้การที่ไม่ทันได้พูด
-> สถานะ: DRAFT — รอผู้เขียนอนุมัติ
+> สถานะ: APPROVED — ผู้เขียนอนุมัติ 2026-10-15
 > ต่อจากตอนที่ 15 APPROVED
 > ผู้บริหารชายอายุมากของเรเวนจากตอน 13 เป็นผู้บริหาร **สายต่อสู้** ไม่ใช่บอสเงา
 
