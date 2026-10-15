@@ -51,3 +51,7 @@
 
 ## สถานะนิยายล่าสุด
 - [ตอนที่ 17 — สิ่งที่ถูกทิ้งไว้](story/season_01/volume_01/chapters/chapter_017.md) — DRAFT; ตอนที่ 1–16 APPROVED
+
+## สถานะล่าสุด (2026-10-16)
+- เล่ม 1 จบแล้ว ตอน 1–17 APPROVED; [สรุปเล่ม 1](story/season_01/volume_01/VOLUME_01_RECAP.md) · [Handoff](story/season_01/volume_01/VOLUME_01_HANDOFF.md)
+- [เริ่มงาน Obsidian เล่ม 2](story/season_01/volume_02/OBSIDIAN_HOME.md) · [แผนเล่ม 2](story/season_01/volume_02/OUTLINE.md) — PROPOSED 16 ตอน
