@@ -4,12 +4,12 @@ type: chapter
 season: 1
 volume: 1
 chapter: 17
-status: draft
+status: approved
 timeline_after: E013
 characters: [misaki_aoi, takamine_reiji, shiraha_kaname]
 ---
 # เล่ม 1 ตอนที่ 17 — ร่องรอยที่ยังอุ่น
-> สถานะ: DRAFT — รอผู้เขียนตรวจและอนุมัติ
+> สถานะ: APPROVED — ผู้เขียนอนุมัติ 2026-10-16
 > ต่อจากตอนที่ 16 APPROVED
 
 เช้าวันถัดมา อาโออิพบว่าตัวเองมาถึงสำนักงานก่อนคนชงกาแฟประจำเสียอีก
